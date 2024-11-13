@@ -1,0 +1,33 @@
+.main-Div{
+    display: flex;
+    justify-content: center;
+}
+label{
+    display: inline-block;
+    width: 230px;
+}
+form{
+    width: 80%;
+    background-color: aquamarine;
+}
+div{
+    margin: 25px;
+}
+@media screen and (max-width:576px)  {
+   
+}
+@media screen and (min-width:576px) and (max-width:768px) {
+    
+}
+@media screen and (min-width:768px) and (max-width:992px) {
+    
+}
+@media screen and (min-width:992px) and (max-width:1200px) {
+    
+}
+@media screen and (min-width:1200px) and (max-width:1400px) {
+    
+}
+@media screen and (min-width:1400px)  {
+   
+}
